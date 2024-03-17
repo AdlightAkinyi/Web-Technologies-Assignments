@@ -1,5 +1,10 @@
 # Web-Technologies-Assignments
 
+# Description
+
+This is a webpage maily on web for web techlogies assignments and practice
+
+
 # Technologies used
 HTML
 
