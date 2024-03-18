@@ -7,6 +7,7 @@ This is a webpage maily on web for web techlogies assignments and practice
 
 # Technologies used
 HTML
+CSS
 
 # Licence 
 MIT License
